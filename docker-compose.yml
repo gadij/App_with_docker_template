@@ -1,0 +1,10 @@
+version: '1.0'
+services:
+  frontend:
+    build: ./frontend
+    ports:
+      - 9090:9090
+  backend:
+    build: ./backend
+    ports:
+      - 3001:3001

@@ -1,0 +1,13 @@
+{
+    "name": "docker course",
+    "price": 100,
+    "is_published": true,
+    "tags": [
+        "software",
+        "devops"
+    ],
+    "author": {
+        "firstName": "gadi",
+        "lastName": "jacobson"
+    }
+}
